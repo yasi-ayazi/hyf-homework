@@ -1,0 +1,7 @@
+Tomato
+Carrot
+Broccoli
+Spinach
+Cucumber
+Lettuce
+Kale
